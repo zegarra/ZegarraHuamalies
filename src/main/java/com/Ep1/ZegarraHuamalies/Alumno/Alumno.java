@@ -10,7 +10,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Alumno {
-    String id;
+    int id;
     String nombre;
     String apellido;
     String dni;
